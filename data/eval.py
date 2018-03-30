@@ -1,5 +1,5 @@
 groundtruth_file = 'qrel_clean'
-answer_file = 'header_search_results'
+answer_file = 'search_results'
 
 q2reld = {} 
 for line in open(groundtruth_file):
